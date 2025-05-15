@@ -40,4 +40,4 @@ This project is licensed under the MIT License.
 
 ---
 
-*Created by [YourName] - A simple, secure smart contract for Ether savings.*
+*Created by [lostbrain] - A simple, secure smart contract for Ether savings.*
